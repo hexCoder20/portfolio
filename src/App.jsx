@@ -5,7 +5,9 @@ import Project from './components/Projects';
 import Footer from './components/Footer';
 
 
-import './App.css'
+import './App.css';
+import './components/Hero.css';
+
 
 function App() {
   
